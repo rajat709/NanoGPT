@@ -1,1 +1,1 @@
-# NanoGPT
+# Nano-GPT
